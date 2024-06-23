@@ -6,11 +6,11 @@ I am a Full Stack Web  Developer and Mobile App developer from Bangladesh. I hav
 
 
 ##Skils and Experience
-*Java
-*SpringBoot
-*Microservice
-*Angular
-*CoreUi Angular
+* Java
+* SpringBoot
+* Microservice
+* Angular
+* CoreUi Angular
 * icons.menu
 * JavaScript,Html,Css,Bootstrap
 * Flutter
