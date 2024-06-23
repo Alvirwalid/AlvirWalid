@@ -1,5 +1,5 @@
 ### Hi there 👋, Alvir Walid
-#### I am an Android developer
+#### I am full stack  developer (Java ,Springboot ,Anguular ,Flutter )
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvirwalid&theme=dark&show_icons=true)
 
 I am a Flutter developer from Bangladesh. I have hands on experiences in various language like C++,Javascript and dart. I use to work on front-end using HTML CSS and Javascript . While working on react i found that flutter is really getting popular. I simply learned it and got passionate about it. Currently, I'm specializing in mobile development in Flutter.
